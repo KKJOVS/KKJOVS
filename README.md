@@ -13,4 +13,22 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+m303user@m303-1 MINGW64 ~/Desktop/CIT18_JOVERO
+$ git config --global user.name "KKJOVS"
+
+m303user@m303-1 MINGW64 ~/Desktop/CIT18_JOVERO
+$ git config --global user.email natrovez0914@gmail.com
+
+m303user@m303-1 MINGW64 ~/Desktop/CIT18_JOVERO
+$ git config --global init.default branch main
+
+
+
 $ code ./ CIT18_JOVERO
+
+$ git config --list
+
+$ git status
+
+$ git add File.txt
