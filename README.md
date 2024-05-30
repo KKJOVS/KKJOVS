@@ -53,3 +53,16 @@ $ git remote -v
 origin  https://github.com/KKJOVS/CIT18_TEST.git (fetch)
 origin  https://github.com/KKJOVS/CIT18_TEST.git (push)
 
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote add origin https://github.com/KKJOVS/CIT18_TEST.git
+error: remote origin already exists.
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote add another https://github.com/KKJOVS/CIT18_TEST.git
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote show
+another
+origin
+
