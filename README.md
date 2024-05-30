@@ -32,3 +32,19 @@ $ git config --list
 $ git status
 
 $ git add File.txt
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote add origin https://github.com/KKJOVS/CIT18_TEST.git
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote show
+origin
+
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote show origin
+
+* remote origin
+  Fetch URL: https://github.com/KKJOVS/CIT18_TEST.git
+  Push  URL: https://github.com/KKJOVS/CIT18_TEST.git
+  HEAD branch: (unknown)
+
