@@ -48,3 +48,8 @@ $ git remote show origin
   Push  URL: https://github.com/KKJOVS/CIT18_TEST.git
   HEAD branch: (unknown)
 
+m303user@m303-1 MINGW64 ~/3D Objects/CIT18_JOVERO (master)
+$ git remote -v
+origin  https://github.com/KKJOVS/CIT18_TEST.git (fetch)
+origin  https://github.com/KKJOVS/CIT18_TEST.git (push)
+
